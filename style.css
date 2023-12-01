@@ -134,6 +134,11 @@ img {
   margin-bottom: 3rem;
 }
 
+ .nav__logo img{
+  width: 15%;
+  height: 4%;
+ }
+
 .main {
   overflow: hidden;
 }
